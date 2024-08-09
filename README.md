@@ -26,7 +26,7 @@ Loop is a social networking platform enabling seamless user interaction and cont
 1. **Clone the Repository**:  
    Open your terminal and clone the repository using the following command:
    ```bash
-   git clone https://github.com/ajsevn/loop.git
+   git clone https://github.com/ajsevn/loop-connecting-full-circle.git
    ```
 
 2. **Move the Repository**:  
