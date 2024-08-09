@@ -41,7 +41,7 @@ Loop is a social networking platform enabling seamless user interaction and cont
 4. **Access the Application**:  
    Open your web browser and go to:
    ```
-   http://localhost/loop
+   http://localhost/loop-connecting-full-circle
    ```
 
 Now you can start using Loop and connect with others!
