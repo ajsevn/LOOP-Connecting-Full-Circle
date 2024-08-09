@@ -7,7 +7,7 @@ Loop is a social networking platform enabling seamless user interaction and cont
 
 ### README Content:
 
-# Loop: Get Connected
+# Loop: Connecting Full Circle
 
 **Loop** is a social networking platform where users can share posts, images, and chat with each other in real-time. Designed to be simple and user-friendly, Loop provides a seamless experience for those looking to connect and engage in a safe and secure environment.
 
